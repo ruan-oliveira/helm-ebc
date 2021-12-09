@@ -2,5 +2,5 @@ dependencies:
 - name: ruan
   repository: file://../common/ruan
   version: 0.1.0
-digest: sha256:593716b551e9f4086592fe9898bb3222ce09559d2f08d2dbb49ab958da9d662a
-generated: "2021-12-09T19:58:29.339708-03:00"
+digest: sha256:1f7ba312276fb7697b6329d38870829df288e423de792971039fab2c60640c3d
+generated: "2021-12-09T20:30:51.896206-03:00"
