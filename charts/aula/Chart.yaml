@@ -11,6 +11,3 @@ dependencies:
   version: "0.1.0"
   condition: ruan.enabled
   repository: "file://../common/ruan"
-- name: grafana
-  version: "6.18.2"
-  repository: https://grafana.github.io/helm-charts
