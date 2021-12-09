@@ -48,6 +48,7 @@ Selector labels
 {{- define "ruan.selectorLabels" -}}
 app.kubernetes.io/name: {{ include "ruan.name" . }}
 app.kubernetes.io/instance: {{ .Release.Name }}
+io.cattle.field/appId: {{ .Release.Name }}
 {{- end }}
 
 {{/*
