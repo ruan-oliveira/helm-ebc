@@ -1,0 +1,6 @@
+dependencies:
+- name: ruan
+  repository: file://../common/ruan
+  version: 0.1.0
+digest: sha256:593716b551e9f4086592fe9898bb3222ce09559d2f08d2dbb49ab958da9d662a
+generated: "2021-12-09T19:58:29.339708-03:00"

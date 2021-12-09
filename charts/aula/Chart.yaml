@@ -5,3 +5,8 @@ type: application
 version: 0.1.0
 appVersion: "1.16.0"
 icon: https://linuxtips.us/wp-content/uploads/nginx-logo.png
+
+dependencies:
+- name: ruan
+  version: "0.1.0"
+  repository: "file://../common/ruan"
