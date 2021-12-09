@@ -9,4 +9,5 @@ icon: https://linuxtips.us/wp-content/uploads/nginx-logo.png
 dependencies:
 - name: ruan
   version: "0.1.0"
+  condition: ruan.enabled
   repository: "file://../common/ruan"

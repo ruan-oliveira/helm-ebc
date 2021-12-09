@@ -80,3 +80,13 @@ nodeSelector: {}
 tolerations: []
 
 affinity: {}
+
+ruan:
+  enabled: false
+  ingress:
+    enabled: true
+    hosts:
+      - host: ruan2.helm.jacexperts.io
+        paths:
+          - path: /
+            pathType: ImplementationSpecific
